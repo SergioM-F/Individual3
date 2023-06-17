@@ -8,4 +8,14 @@
     <string name="button">Button</string>
     <string name="desarrollado_por_samf">Desarrollado por SAMF</string>
     <string name="todo">TODO</string>
+    <string name="cerrar_app">Cerrar APP</string>
+    <string name="division">Division</string>
+    <string name="n_1">N°1</string>
+    <string name="n_2">N°2</string>
+    <string name="sum">+</string>
+    <string name="rest">-</string>
+    <string name="mult">x</string>
+    <string name="div">/</string>
+    <string name="result">Resultado</string>
+    <string name="resultado_es">Resultado es</string>
 </resources>
